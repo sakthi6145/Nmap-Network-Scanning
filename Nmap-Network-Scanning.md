@@ -14,8 +14,11 @@ Understand basic Nmap scanning techniques.
 Analyze scan results for security assessment purposes.
 
 # Tools Used
+
 Nmap
+
 Kali Linux
+
 Metasploitable
 
 # Activities Performed
